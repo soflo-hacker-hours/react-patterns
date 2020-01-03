@@ -14,7 +14,7 @@ Google Login button might look like this:
   }
 ```
 
-`data-onsuccess` does not work with `{this.onSignIn}`, so something else is neceessary.
+`data-onsuccess` does not work with `{this.onSignIn}`, so something else is necessary.
 
 ## function wrapper
 
